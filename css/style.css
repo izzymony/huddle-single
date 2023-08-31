@@ -1,0 +1,42 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+}
+body{
+    min-height: 100vh;
+    background-color:hsl(257, 40%, 49%); 
+    background-image: url(bg-mobile.svg);
+}
+
+h1{
+    margin-top:6rem;
+    color:white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+main{ 
+    align-content: center;
+    justify-content: center;
+    text-align:center;
+    background-image: url(bg-mobile.svg);
+}
+
+.logo{
+    width:12rem;
+    margin-left: 2rem;
+    margin-top: 3rem;
+}
+
+.img{
+    margin-top: -5rem;
+}
+
+.mockups{
+    margin-top:4rem;
+    width:20rem;
+    margin-left: 1rem;
+    
+}
+
